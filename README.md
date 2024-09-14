@@ -1,12 +1,12 @@
 <div align="center">
 
-# Ordenador de recibos en PDF
+# Recolector de comprobantes en PDF
 
 [![Python](https://img.shields.io/badge/python-V3.11.3-success?color=blue&logo=python&style=for-the-badge)](https://python.org/)
 ![OpenSource](https://img.shields.io/badge/-open%20source-informational?style=for-the-badge)
 ![Free](https://img.shields.io/badge/-free-success?style=for-the-badge)
 
-![Demostracion del proyecto](..\Automatizacion_Comprobantes\media\Demostracion.gif)
+![Demostracion del proyecto](https://github.com/TomasS-R/Automatizacion_Comprobantes/blob/main/media/Demostracion.gif)
 </div>
 
 > [!NOTE]
@@ -14,9 +14,9 @@
 
 ## Conversion y armado:
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="..\Automatizacion_Comprobantes\media\image.png" alt="Imagen 1" width="263" />
-  <span style="margin: 0 20px; font-size: 24px;">➔</span>
-  <img src="..\Automatizacion_Comprobantes\media\image-1.png" alt="Imagen 2" width="300" /> 
+  <img src="https://github.com/TomasS-R/Automatizacion_Comprobantes/blob/main/media/image.png" alt="Imagen 1" width="263" />
+  ➤
+  <img src="https://github.com/TomasS-R/Automatizacion_Comprobantes/blob/main/media/image-1.png" alt="Imagen 2" width="300" /> 
 </div>
 
 
