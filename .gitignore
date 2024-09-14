@@ -1,0 +1,8 @@
+/my_env_files
+Comprobantes/*
+__pycache__
+Resultados/*
+RecoradorFolder
+output/*
+build
+dist

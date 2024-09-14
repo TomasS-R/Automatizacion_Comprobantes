@@ -10,7 +10,7 @@
 </div>
 
 > [!NOTE]
-> Este proyecto es personal, lo realice para soluionar un problema en especifico, si necesita/quiere usarlo debera modificar los parametros a su gusto ya que no se adaptara a sus archivos automaticamente
+> Este proyecto es personal, lo realice para solucionar un problema en especifico, si necesita/quiere usarlo debera modificar los parametros a su gusto ya que no se adaptara a sus archivos automaticamente
 
 ## Conversion y armado:
 <div style="display: flex; align-items: center; justify-content: center;">
@@ -48,7 +48,30 @@ pip install -r requeriments.txt
 ``` bash
 python ordenador.py
 ```
-##
+
 ### Si todo funciono correctamente los archivos se deben haber procesado bien y tendras el resultado dentro de la carpeta Resultados como documento.docx 😎
+
+# Nueva version 1.0 Interfaz! 😱
+
+### Si, como leiste, una nueva e intuitiva interfaz, un poco basica y antiestetica, pero eso es algo, no? 🤨
+### Cocacola no llego a vender millones de botellas en su lanzamiento, o si? 😆
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="..\Automatizacion_Comprobantes\media\recorador.png" alt="Imagen 1" width="550" />
+  <span style="margin: 0 20px; font-size: 24px;">➔</span>
+  <img src="..\Automatizacion_Comprobantes\media\DemostracionInterfaz.gif" alt="Imagen 1" width="500" />
+</div>
+
+### Esta version trae varias opciones como: 👨‍💻
+### - Poder arrastrar y soltar los archivos dentro del programa para procesarlos
+### - Especificarle el tamaño/medidas
+### - Eliminar 1 o todos los archivos subidos
+### - Aumentar la cantidad de imagenes por filas
+### - Especificar donde guardar el archivo de salida
+### - Muy util un boton de cerrar el programa jajaja, genial no? 🚀
+
+## Descarga el programa 📥
+
+### En la seccion de [Releases](https://github.com/TomasS-R/Automatizacion_Comprobantes/releases) podras descargar el programa listo para usar sin tener que descargar el proyecto completo.
 
 ### Te parecio util? dejame una estrella en el proyecto!⭐. Estare más que agradecido.🤩
