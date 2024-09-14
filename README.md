@@ -57,9 +57,9 @@ python ordenador.py
 ### Cocacola no llego a vender millones de botellas en su lanzamiento, o si? 😆
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="..\Automatizacion_Comprobantes\media\recorador.png" alt="Imagen 1" width="550" />
+  <img src="https://github.com/TomasS-R/Automatizacion_Comprobantes/blob/main/media/recorador.png" alt="Imagen 1" width="450" />
   <span style="margin: 0 20px; font-size: 24px;">➔</span>
-  <img src="..\Automatizacion_Comprobantes\media\DemostracionInterfaz.gif" alt="Imagen 1" width="500" />
+  <img src="https://github.com/TomasS-R/Automatizacion_Comprobantes/blob/main/media/DemostracionInterfaz.gif" alt="Imagen 2" width="450" />
 </div>
 
 ### Esta version trae varias opciones como: 👨‍💻
