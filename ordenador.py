@@ -31,6 +31,7 @@ def pdfs_to_single_docx(pdf_files, docx_path, crop_dimensions, images_per_row):
 
     for pdf_path in pdf_files:
         #print(f"Procesando archivo nro {numero_doc}: ",pdf_path)
+        os.environ["PATH"] = os.environ["PATH"] + os.pathsep + os.path.join(os.getcwd(), 'poppler', 'bin')
         images = convert_from_path(pdf_path)
 
         for image in images:
